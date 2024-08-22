@@ -1,123 +1,134 @@
 [
-    {
-      "picture": "/image/Food.png",
-      "title": "Organic Apple",
-      "category": "Food",
-      "category_bg": "#FFCC80",
-      "card_bg": "#FFE0B2",
-      "text_bg": "#EF6C00",
-      "description": "This fresh organic apple is handpicked from local farms and offers a crisp and sweet taste that’s perfect for a healthy snack. Grown without the use of pesticides or harmful chemicals, it’s not only delicious but also safe for you and your family. Add a nutritious touch to your diet with this juicy, flavorful fruit that’s packed with vitamins and antioxidants.",
-      "price": 1.50
-    },
-    {
-      "picture": "/image/Food.png",
-      "title": "Whole Wheat Bread",
-      "category": "Food",
-      "category_bg": "#FFCC80",
-      "card_bg": "#FFE0B2",
-      "text_bg": "#EF6C00",
-      "description": "Enjoy the wholesome goodness of our freshly baked whole wheat bread. Made with 100% whole grains, this bread is a great source of fiber and essential nutrients. It has a soft texture and rich flavor that pairs perfectly with your favorite spreads or as a base for sandwiches. A healthy choice for those who care about nutrition without compromising on taste.",
-      "price": 2.50
-    },
-    {
-      "picture": "/image/Food.png",
-      "title": "Avocado Toast",
-      "category": "Food",
-      "category_bg": "#FFCC80",
-      "card_bg": "#FFE0B2",
-      "text_bg": "#EF6C00",
-      "description": "Our avocado toast is a delightful combination of creamy, ripe avocados spread over toasted whole-grain bread, topped with a squeeze of fresh lime and a sprinkle of sea salt. Perfect for breakfast or a quick snack, this dish is both delicious and packed with healthy fats, fiber, and vitamins. Elevate your morning routine with this nutritious and trendy treat.",
-      "price": 5.00
-    },
-    {
-      "picture": "/image/Health.png",
-      "title": "Vitamin C Supplement",
-      "category": "Health",
-      "category_bg": "#AED581",
-      "card_bg": "#C5E1A5",
-      "text_bg": "#7CB342",
-      "description": "Boost your immunity with our high-quality Vitamin C supplement. Each tablet provides a potent dose of Vitamin C, essential for maintaining a healthy immune system, promoting skin health, and fighting off free radicals. Whether you’re looking to enhance your daily wellness routine or support your body during cold and flu season, this supplement is an excellent choice.",
-      "price": 15.00
-    },
-    {
-      "picture": "/image/Health.png",
-      "title": "Yoga Mat",
-      "category": "Health",
-      "category_bg": "#AED581",
-      "card_bg": "#C5E1A5",
-      "text_bg": "#7CB342",
-      "description": "Find your inner peace with our comfortable and durable yoga mat. Designed with a non-slip surface, this mat ensures stability during your most challenging poses. It’s thick enough to provide cushioning for your joints, yet lightweight enough to carry to and from your yoga classes. Perfect for both beginners and advanced practitioners, it’s your ideal companion for any yoga or meditation session.",
-      "price": 25.00
-    },
-    {
-      "picture": "/image/Health.png",
-      "title": "Protein Powder",
-      "category": "Health",
-      "category_bg": "#AED581",
-      "card_bg": "#C5E1A5",
-      "text_bg": "#7CB342",
-      "description": "Support your fitness goals with our premium protein powder, crafted to help you build muscle, recover faster, and stay energized. Made from high-quality ingredients, it mixes easily into water, milk, or your favorite smoothie. Whether you’re hitting the gym or simply need a nutritious meal replacement, this protein powder is the perfect addition to your diet.",
-      "price": 30.00
-    },
-    {
-      "picture": "/image/Education.png",
-      "title": "Introduction to Python Programming",
-      "category": "Education",
-      "category_bg": "#81D4FA",
-      "card_bg": "#B3E5FC",
-      "text_bg": "#0288D1",
-      "description": "Dive into the world of programming with our beginner-friendly course on Python. This course covers all the basics, from understanding syntax to writing your first programs. By the end of this course, you’ll be able to build simple applications, automate tasks, and understand key programming concepts. Perfect for those new to coding, this course will give you a strong foundation in one of the most popular programming languages.",
-      "price": 100.00
-    },
-    {
-      "picture": "/image/Education.png",
-      "title": "Digital Marketing Masterclass",
-      "category": "Education",
-      "category_bg": "#81D4FA",
-      "card_bg": "#B3E5FC",
-      "text_bg": "#0288D1",
-      "description": "Transform your career with our comprehensive Digital Marketing Masterclass. Learn the latest strategies and tools in SEO, social media marketing, content marketing, and more. This course is designed for beginners and professionals alike, providing you with the skills needed to drive traffic, generate leads, and grow any business online. With practical exercises and expert insights, you’ll be ready to excel in the digital marketing world.",
-      "price": 150.00
-    },
-    {
-      "picture": "/image/Education.png",
-      "title": "Mathematics for Data Science",
-      "category": "Education",
-      "category_bg": "#81D4FA",
-      "card_bg": "#B3E5FC",
-      "text_bg": "#0288D1",
-      "description": "Unlock the power of data with our Mathematics for Data Science course. This course is designed to teach you the mathematical foundations essential for data science, including statistics, linear algebra, and calculus. Whether you’re aiming to start a career in data science or simply enhance your analytical skills, this course will provide you with the knowledge and confidence to tackle complex data problems.",
-      "price": 120.00
-    },
-    {
-      "picture": "/image/Clothing.png",
-      "title": "Cotton T-Shirt",
-      "category": "Clothing",
-      "category_bg": "#FFAB91",
-      "card_bg": "#FFCCBC",
-      "text_bg": "#E64A19",
-      "description": "Stay comfortable and stylish with our 100% cotton t-shirt. Available in a variety of colors, this shirt is perfect for casual wear or layering. Its soft, breathable fabric ensures all-day comfort, while the classic fit makes it a versatile addition to any wardrobe. Dress it up with a jacket or keep it casual with jeans – this t-shirt is a must-have staple.",
-      "price": 20.00
-    },
-    {
-      "picture": "/image/Clothing.png",
-      "title": "Denim Jeans",
-      "category": "Clothing",
-      "category_bg": "#FFAB91",
-      "card_bg": "#FFCCBC",
-      "text_bg": "#E64A19",
-      "description": "Our classic denim jeans are designed for both comfort and style. Featuring a timeless cut and durable fabric, these jeans are perfect for everyday wear. They offer a perfect fit that complements your body shape while providing enough stretch for mobility. Pair them with a t-shirt or dress them up with a blouse – these jeans are as versatile as they are fashionable.",
-      "price": 40.00
-    },
-    {
-      "picture": "/image/Clothing.png",
-      "title": "Leather Jacket",
-      "category": "Clothing",
-      "category_bg": "#FFAB91",
-      "card_bg": "#FFCCBC",
-      "text_bg": "#E64A19",
-      "description": "Make a bold statement with our premium leather jacket. Crafted from high-quality leather, this jacket is designed to last and age beautifully. Its sleek design and comfortable fit make it perfect for any season. Whether you’re dressing up for a night out or adding an edge to your casual look, this leather jacket is the ultimate wardrobe essential.",
-      "price": 120.00
-    }
-  ]
-  
+  {
+    "id": 1,
+    "picture": "/image/Food.png",
+    "title": "Organic Apple",
+    "category_type": "Food",
+    "category_bg": "#fca9a9",
+    "card_bg": "#fccccc",
+    "text_bg": "#FF444A",
+    "description": "This fresh organic apple is handpicked from local farms and offers a crisp and sweet taste that’s perfect for a healthy snack. Grown without the use of pesticides or harmful chemicals, it’s not only delicious but also safe for you and your family. Add a nutritious touch to your diet with this juicy, flavorful fruit that’s packed with vitamins and antioxidants.",
+    "price": 1.50
+  },
+  {
+    "id": 2,
+    "picture": "/image/Food.png",
+    "title": "Whole Wheat Bread",
+    "category_type": "Food",
+    "category_bg": "#fca9a9",
+    "card_bg": "#fccccc",
+    "text_bg": "#FF444A",
+    "description": "Enjoy the wholesome goodness of our freshly baked whole wheat bread. Made with 100% whole grains, this bread is a great source of fiber and essential nutrients. It has a soft texture and rich flavor that pairs perfectly with your favorite spreads or as a base for sandwiches. A healthy choice for those who care about nutrition without compromising on taste.",
+    "price": 2.50
+  },
+  {
+    "id": 3,
+    "picture": "/image/Food.png",
+    "title": "Avocado Toast",
+    "category_type": "Food",
+    "category_bg": "#fca9a9",
+    "card_bg": "#fccccc",
+    "text_bg": "#FF444A",
+    "description": "Our avocado toast is a delightful combination of creamy, ripe avocados spread over toasted whole-grain bread, topped with a squeeze of fresh lime and a sprinkle of sea salt. Perfect for breakfast or a quick snack, this dish is both delicious and packed with healthy fats, fiber, and vitamins. Elevate your morning routine with this nutritious and trendy treat.",
+    "price": 5.00
+  },
+  {
+    "id": 4,
+    "picture": "/image/Health.png",
+    "title": "Vitamin C Supplement",
+    "category_type": "Health",
+    "category_bg": "#ddfcd4",
+    "card_bg": "#cbfabe",
+    "text_bg": "#60a84c",
+    "description": "Boost your immunity with our high-quality Vitamin C supplement. Each tablet provides a potent dose of Vitamin C, essential for maintaining a healthy immune system, promoting skin health, and fighting off free radicals. Whether you’re looking to enhance your daily wellness routine or support your body during cold and flu season, this supplement is an excellent choice.",
+    "price": 15.00
+  },
+  {
+    "id": 5,
+    "picture": "/image/Health.png",
+    "title": "Yoga Mat",
+    "category_type": "Health",
+    "category_bg": "#ddfcd4",
+    "card_bg": "#cbfabe",
+    "text_bg": "#60a84c",
+    "description": "Find your inner peace with our comfortable and durable yoga mat. Designed with a non-slip surface, this mat ensures stability during your most challenging poses. It’s thick enough to provide cushioning for your joints, yet lightweight enough to carry to and from your yoga classes. Perfect for both beginners and advanced practitioners, it’s your ideal companion for any yoga or meditation session.",
+    "price": 25.00
+  },
+  {
+    "id": 6,
+    "picture": "/image/Health.png",
+    "title": "Protein Powder",
+    "category_type": "Health",
+    "category_bg": "#ddfcd4",
+    "card_bg": "#cbfabe",
+    "text_bg": "#60a84c",
+    "description": "Support your fitness goals with our premium protein powder, crafted to help you build muscle, recover faster, and stay energized. Made from high-quality ingredients, it mixes easily into water, milk, or your favorite smoothie. Whether you’re hitting the gym or simply need a nutritious meal replacement, this protein powder is the perfect addition to your diet.",
+    "price": 30.00
+  },
+  {
+    "id": 7,
+    "picture": "/image/Education.png",
+    "title": "Introduction to Python Programming",
+    "category_type": "Education",
+    "category_bg": "#81D4FA",
+    "card_bg": "#B3E5FC",
+    "text_bg": "#0288D1",
+    "description": "Dive into the world of programming with our beginner-friendly course on Python. This course covers all the basics, from understanding syntax to writing your first programs. By the end of this course, you’ll be able to build simple applications, automate tasks, and understand key programming concepts. Perfect for those new to coding, this course will give you a strong foundation in one of the most popular programming languages.",
+    "price": 100.00
+  },
+  {
+    "id": 8,
+    "picture": "/image/Education.png",
+    "title": "Digital Marketing Masterclass",
+    "category_type": "Education",
+    "category_bg": "#81D4FA",
+    "card_bg": "#B3E5FC",
+    "text_bg": "#0288D1",
+    "description": "Transform your career with our comprehensive Digital Marketing Masterclass. Learn the latest strategies and tools in SEO, social media marketing, content marketing, and more. This course is designed for beginners and professionals alike, providing you with the skills needed to drive traffic, generate leads, and grow any business online. With practical exercises and expert insights, you’ll be ready to excel in the digital marketing world.",
+    "price": 150.00
+  },
+  {
+    "id": 9,
+    "picture": "/image/Education.png",
+    "title": "Mathematics for Data Science",
+    "category_type": "Education",
+    "category_bg": "#81D4FA",
+    "card_bg": "#B3E5FC",
+    "text_bg": "#0288D1",
+    "description": "Unlock the power of data with our Mathematics for Data Science course. This course is designed to teach you the mathematical foundations essential for data science, including statistics, linear algebra, and calculus. Whether you’re aiming to start a career in data science or simply enhance your analytical skills, this course will provide you with the knowledge and confidence to tackle complex data problems.",
+    "price": 120.00
+  },
+  {
+    "id": 10,
+    "picture": "/image/Clothing.png",
+    "title": "Cotton T-Shirt",
+    "category_type": "Clothing",
+    "category_bg": "#FFAB91",
+    "card_bg": "#FFCCBC",
+    "text_bg": "#E64A19",
+    "description": "Stay comfortable and stylish with our 100% cotton t-shirt. Available in a variety of colors, this shirt is perfect for casual wear or layering. Its soft, breathable fabric ensures all-day comfort, while the classic fit makes it a versatile addition to any wardrobe. Dress it up with a jacket or keep it casual with jeans – this t-shirt is a must-have staple.",
+    "price": 20.00
+  },
+  {
+    "id": 11,
+    "picture": "/image/Clothing.png",
+    "title": "Denim Jeans",
+    "category_type": "Clothing",
+    "category_bg": "#FFAB91",
+    "card_bg": "#FFCCBC",
+    "text_bg": "#E64A19",
+    "description": "Our classic denim jeans are designed for both comfort and style. Featuring a timeless cut and durable fabric, these jeans are perfect for everyday wear. They offer a perfect fit that complements your body shape while providing enough stretch for mobility. Pair them with a t-shirt or dress them up with a blouse – these jeans are as versatile as they are fashionable.",
+    "price": 40.00
+  },
+  {
+    "id": 12,
+    "picture": "/image/Clothing.png",
+    "title": "Leather Jacket",
+    "category_type": "Clothing",
+    "category_bg": "#FFAB91",
+    "card_bg": "#FFCCBC",
+    "text_bg": "#E64A19",
+    "description": "Make a bold statement with our premium leather jacket. Crafted from high-quality leather, this jacket is designed to last and age beautifully. Its sleek design and comfortable fit make it perfect for any season. Whether you’re dressing up for a night out or adding an edge to your casual look, this leather jacket is the ultimate wardrobe essential.",
+    "price": 120.00
+  }
+]
