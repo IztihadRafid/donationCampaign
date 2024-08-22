@@ -5,18 +5,24 @@ const Header = () => {
   const links = (
     <>
       <li>
-        <NavLink to="/">Home</NavLink>
+        <NavLink to="/" className={({ isActive }) =>
+          isActive ? 'text-[#FF444A] underline font-bold text-lg ' : 'text-black font-bold text-lg'
+        }>Home</NavLink>
       </li>
       <li>
-        <NavLink to="/donation">Donation</NavLink>
+        <NavLink to="/donation" className={({ isActive }) =>
+          isActive ? 'text-[#FF444A] underline font-bold text-lg' : 'text-black font-bold text-lg'
+        }>Donation</NavLink>
       </li>
       <li>
-        <NavLink to="/statistics">Statistics</NavLink>
+        <NavLink to="/statistics" className={({ isActive }) =>
+          isActive ? 'text-[#FF444A] underline font-bold text-lg' : 'text-black font-bold text-lg'
+        }>Statistics</NavLink>
       </li>
     </>
   );
   return (
-    <div className="navbar bg-base-100 flex justify-between items-center">
+    <div className="navbar bg-base-100 flex justify-between items-center max-w-7xl mx-auto">
       <div className="">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

@@ -13,7 +13,7 @@ const CategoryLists = () => {
             <h1>Category List{categories.length}</h1>
             <div className='grid lg:grid-cols-4 max-w-7xl mx-auto gap-5 md:grid-cols-2'>
                 {
-                    categories.map(category=><CategoryList category={category}></CategoryList>)
+                    categories.map(category=><CategoryList key={category.id} category={category}></CategoryList>)
                 }
             </div>
         </div>
