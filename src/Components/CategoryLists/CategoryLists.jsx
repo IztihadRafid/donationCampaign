@@ -10,8 +10,8 @@ const CategoryLists = () => {
     },[])
     return (
         <div>
-            <h1>Category List{categories.length}</h1>
-            <div className='grid lg:grid-cols-4 max-w-7xl mx-auto gap-5 md:grid-cols-2'>
+            {/* <h1>Category List{categories.length}</h1> */}
+            <div className='grid lg:grid-cols-4 max-w-7xl mx-auto gap-5 md:grid-cols-2 mt-5 mb-4'>
                 {
                     categories.map(category=><CategoryList key={category.id} category={category}></CategoryList>)
                 }

@@ -5,6 +5,7 @@ import { getStoredDonation, saveDonation } from '../Utility/localStorage';
 const Donations = () => {
     const donations = useLoaderData()
     const [serviceDonate, setServiceDonate] = useState([])
+    const [allserviceDonate,setAllServiceDonate]=useState(4)
     useEffect(() => {
         const storedDonations = getStoredDonation()
         if (donations.length > 0) {
@@ -25,7 +26,7 @@ const Donations = () => {
             <h1 className='text-5xl text-center mb-5'>Donations: {serviceDonate.length}</h1>
             <ul className='grid grid-cols-2 max-w-7xl mx-auto gap-4'>
                 {
-                    serviceDonate.map(donate => <li key={donate.id}>
+                    serviceDonate.slice(0,allserviceDonate).map(donate => <li key={donate.id}>
                       <div>
                       <div className='rounded-xl' style={{ backgroundColor: `${donate.card_bg}` }}>
                            <div className='flex'>
@@ -39,9 +40,13 @@ const Donations = () => {
                            </div>
                         </div>
                       </div>
+                      
                     </li>)
                 }
             </ul>
+            <div className={allserviceDonate === serviceDonate.length ? 'hidden':'flex justify-center items-center m-7'} >
+            <button onClick={()=>setAllServiceDonate(serviceDonate.length)} className='btn btn-success text-white font-semibold '>See All</button>
+            </div>
         </div>
     );
 };
