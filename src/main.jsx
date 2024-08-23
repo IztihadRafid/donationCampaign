@@ -22,13 +22,15 @@ const router = createBrowserRouter([
       },
       {
         path:'/donation',
-        element:<Donations></Donations>
+        element:<Donations></Donations>,
+        loader: ()=>fetch('jsons.json')
       },
       {
         path:'/categorydetail/:id',
         element:<CategoryDetails></CategoryDetails>,
         loader:()=> fetch('jsons.json')
-      }
+      },
+      
     ]
 
   },
